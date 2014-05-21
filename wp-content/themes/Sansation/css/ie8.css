@@ -1,0 +1,15 @@
+/* ************************************************************************* */
+					 		/* IE8 FIXES */
+/* ************************************************************************* */
+#interiorbanner h2 {padding-top: 14px;}
+.footer_user, .footer_email {width: 177px;height: 29px;padding: 13px 13px 0 32px;}
+/* .sf-menu ul{background: transparent url("../i/bg_ul_nav_main_ie.jpg") 0 0 no-repeat;} */
+
+
+.slider-container {background: url("../i/bg_div_flashbanner_center.jpg");}
+
+
+.portfolio_big_wrap {width: 960px;float: none;clear: left;}
+
+
+.portfolio_content_image {margin:45px 3px 0 0 !important;}

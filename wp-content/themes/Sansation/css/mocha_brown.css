@@ -1,0 +1,252 @@
+/* developed by 5-squared - www.5-squared.com */
+
+
+/* ************************************************************************* */
+				         /* MOCHA BROWN COLOR SCHEME */
+/* ************************************************************************* */
+
+
+/* -------- LAYOUT/GLOBAL -------- */
+body {background: #2C2723;}
+#header {border-top: 3px solid #2C2723;}
+#footer {background: #2C2723 url("../i/mochabrown/bg_div_footer.jpg") left top repeat-x;color: #DC4019;}
+#copyright {background: url("../i/mochabrown/bg_div_footer_copyright.gif") 0 28px repeat-x;}
+#interiorbanner {background: #2C2723 url("../i/mochabrown/bg_div_interiorbanner.jpg") top left repeat-x;}
+#interiorbanner .center {background: #2C2723 url("../i/mochabrown/bg_div_interiorbanner_center.jpg") top left no-repeat;}
+
+
+.half-height {
+	background: #2C2723 url("../i/mochabrown/bg_div_interiorbanner_short.jpg") top left repeat-x !important;
+	min-height: 10em !important;
+	height: auto !important;}
+
+.half-height .center {background: #2C2723 url("../i/mochabrown/bg_div_interiorbanner_center_short.jpg") top left no-repeat !important;
+	min-height: 8.5em !important;
+	height: auto !important;
+	padding: 15px 0 0 0 !important;}
+
+.half-height p{padding-top: 12px !important;}
+.half-height h2{padding-top: 19px !important;}
+
+
+
+
+
+
+/* -------- TYPOGRAPHY -------- */
+h3 {font-size: 1.5em;color: #DC4019;}
+h4 {font-size: 1.4em;color: #DC4019;}
+.ss_logo {display: block;float: left;outline: none;cursor: pointer;}
+#sidebar_social_wrap p {color: #DC4019;}
+.archive_heading {color: #DC4019;padding-bottom: 0px;}
+#footer blockquote {color: #B5AFA8;}
+
+
+
+
+
+
+
+
+/* -------- LISTS -------- */
+#footer li {margin-bottom: 12px;background: url("../i/mochabrown/bg_li_footer.png") 0 5px no-repeat;padding-left: 15px;}
+#main_content ul, #full_width ul, #home_widget_main ul{color: #636B75;margin-left: 15px;list-style: none;font-size: 1.2em;padding-top: 8px;}
+#main_content ol, #full_width ol {color: #636B75;margin-left: 35px;font-size: 1.2em;padding-top: 8px;}
+#main_content ul li, #full_width ul li, .post_content ul li, #home_widget_main ul li {padding: 0 0 10px 18px;background: url("../i/mochabrown/bg_li_archives.gif") 0 5px no-repeat;}
+
+
+
+
+
+
+
+
+
+
+/* -------- LINKS -------- */
+.button {background: #B93313 url("../i/mochabrown/bg_a_button.jpg") left top repeat-x;}
+.button span {border: 1px solid #892810;background: #B93313 url("../i/mochabrown/bg_a_button.jpg") left top repeat-x;}
+.button:hover span, #footer .button:hover span {color: #FFF;background: #DB4019 url("../i/mochabrown/bg_a_button_hover.jpg") left top repeat-x;}
+#footer a {color: #B5AFA8;text-decoration: none;}
+#footer a:hover {color: #F0E8DF;}
+#footer .footer_post a {color: #B5AFA8;}
+#footer .footer_post a:hover {color: #F0E8DF;}
+#vertical_nav .current_page_item a {color: #FFF;background: #DC4019 url("../i/mochabrown/bg_a_vertical_nav_active.jpg") 0 50% no-repeat;}
+#vertical_nav ul ul .current_page_item a {color: #FFF;background: #DC4019 url("../i/mochabrown/bg_a_vertical_nav_active.jpg") 100% 50% no-repeat;}
+
+
+#horizontal_nav .current_page_item a {color: #DC4019;background: url("../i/mochabrown/bg_a_horizontal_nav_active.gif") 50% 74% no-repeat;}
+#sidebar a {color: #DC4019;}
+#footer p {color: #B5AFA8;}
+#copyright a {color: #F0E8DF;}
+#copyright a:hover {color: #FFF;}
+#main_content a, #main_content_sidebar a, .flashhome a {color: #DC4019;}
+#main_content a:hover, #main_content_sidebar a:hover, .flashhome a:hover {color: #84220A;}
+#footer #toTop {background: #DC4019;color: #FFF;}
+
+
+
+
+
+
+
+
+/* -------- NAVIGATION -------- */
+#nav_main .current_page_item a, #nav_main .current_page_item a:hover, #nav_main .current_page_parent a, #nav_main .current_page_parent a:hover {color: #DC4019;}
+#nav_main .current_page_item ul li a, #nav_main .current_page_item ul li a:hover {color: #000;}
+.sf-menu li ul li a:hover{background: #DC4019 url("../i/mochabrown/bg_a_nav_main.jpg") 0 0 repeat-x;}
+
+
+
+
+
+
+
+/* -------- TABLES -------- */
+#content_wrap table{font-size:1.2em;color: #636B75;margin:5px 0 25px 0;}
+#content_wrap table td{padding:8px;}
+#content_wrap table .even{background:#F0E8DF;}
+#content_wrap table .odd{background:#FFF;}
+#content_wrap table .head {background: #938D88;font-weight: bold;color: #FFF;}
+
+
+
+
+
+
+
+/* -------- IMAGES -------- */
+.img_frame {background: url("../i/mochabrown/bg_imgframe.gif") left top no-repeat;}
+.img_frame_port {width: 295px;height: 189px;background: url("../i/mochabrown/sansloader.gif") center center no-repeat;}
+
+
+
+
+
+
+
+
+/* -------- FORMS -------- */
+.footer_user, .footer_email {background: url("../i/mochabrown/bg_input_footer_mailing_user.gif") left top no-repeat !important;}
+.footer_email {background: url("../i/mochabrown/bg_input_footer_mailing_email.gif") left top no-repeat !important;}
+#footer .button {color: #FFF;text-decoration: none;}
+.search_btn {margin: -2px 0 0 10px;width: 59px;height: 22px;outline: none;text-indent: -9999em;background: url("../i/mochabrown/bg_input_sidebar_search_btn.jpg");display: block;}
+.contactsubmit {padding:8px 14px;display: block;border: 1px solid #892810;font-size: 1em;float: left;background: #B93313 url("../i/mochabrown/bg_a_button.jpg") left top repeat-x;color: #FFF;outline: none;cursor: pointer;font-weight: bold;}
+
+
+.content_banner #searchform #searchsubmit {background: url("../i/mochabrown/bg_input_banner_search_btn.png") left top no-repeat;}
+
+
+
+
+
+
+/* -------- HOME -------- */
+#flashbanner {background: #2C2723 url("../i/mochabrown/bg_div_flashbanner.jpg") top left repeat-x;}
+#flashbanner .center {background: #2C2723 url("../i/mochabrown/bg_div_flashbanner_center.jpg") top left no-repeat;}
+#quotes {width: 100%;background: #F0E8DF url("../i/mochabrown/bg_div_quotes.gif") bottom left no-repeat;}
+#quotes p {padding:25px 20px 0 60px;background: url("../i/mochabrown/bg_p_quotes.gif") 20px 15px no-repeat;color: #3E434A;}
+#quotes p a {color: #DC4019;}
+#home_social_wrap .rss {background: url("../i/mochabrown/bg_a_homesocial_rss.jpg") 0 0 no-repeat;}
+#home_social_wrap .facebook {background: url("../i/mochabrown/bg_a_homesocial_facebook.jpg") 0 0 no-repeat;}
+#home_social_wrap .twitter {background: url("../i/mochabrown/bg_a_homesocial_twitter.jpg") 0 0 no-repeat;}
+#home_social_wrap .flickr {background: url("../i/mochabrown/bg_a_homesocial_flickr.jpg") 0 0 no-repeat;}
+#home_social_wrap p {color: #DC4019;}
+#home_slider_nav a{text-indent: -9999em;outline: none;width: 12px;height: 12px;background: url("../i/mochabrown/bg_a_home_slider_nav.png") 0 0 no-repeat;display: block;}
+#home_slider_nav .activeSlide a {background: url("../i/mochabrown/bg_a_home_slider_nav.png") -12px 0 no-repeat !important;}
+
+
+#home_widget_sub h2 {color: #4B403A !important;font-size: 1.7em;}
+#home_widget_sub h4 {color: #DC4019 !important;}
+#home_widget_sub a {color: #3E434A !important;text-decoration: none;}
+#home_widget_sub a:hover {text-decoration: underline;}
+
+
+
+
+
+
+/* -------- SIDEBAR -------- */
+#sidebar_social_wrap .rss {background: url("../i/mochabrown/bg_a_sidebar_social_rss.jpg") 0 0 no-repeat;}
+#sidebar_social_wrap .facebook {background: url("../i/mochabrown/bg_a_sidebar_social_facebook.jpg") 0 0 no-repeat;}
+#sidebar_social_wrap .twitter {background: url("../i/mochabrown/bg_a_sidebar_social_twitter.jpg") 0 0 no-repeat;}
+#sidebar_social_wrap .flickr {background: url("../i/mochabrown/bg_a_sidebar_social_flickr.jpg") 0 0 no-repeat;}
+#sidebar ul a {color: #636B75;text-decoration: none;}
+#sidebar ul a:hover {color: #DC4019;text-decoration: none;}
+#sidebar ul li, #main_content ul li {background: url("../i/mochabrown/bg_li_archives.gif") 0 5px no-repeat;}
+#sidebar h2 .socialheader {color: #DC4019;}
+/* custom social icons for footer */
+#footer #sidebar_social_wrap .rss {background: url("../i/mochabrown/bg_a_sidebar_social_rss.png") 0 0 no-repeat;}
+#footer #sidebar_social_wrap .facebook {background: url("../i/mochabrown/bg_a_sidebar_social_facebook.png") 0 0 no-repeat;}
+#footer #sidebar_social_wrap .twitter {background: url("../i/mochabrown/bg_a_sidebar_social_twitter.png") 0 0 no-repeat;}
+#footer #sidebar_social_wrap .flickr {background: url("../i/mochabrown/bg_a_sidebar_social_flickr.png") 0 0 no-repeat;}
+
+
+
+
+
+
+
+/* -------- BLOG -------- */
+.post_date_wrap {width: 58px; height: 61px;float: left;background:#2C2723 url("../i/mochabrown/bg_div_post_date_wrap.jpg") 0 0 no-repeat;text-align: center;margin: 0 20px 0 7px;}
+#main_content_sidebar .post_month {color: #B5AFA8 !important;}
+#main_content_sidebar .comment_user_wrap .comment_user, #main_content_sidebar .comment_user_wrap .comment_user a {color: #2C2723;font-weight: bold;padding: 4px 0 0 6px;margin: 0;width: 91px;text-decoration: none;}
+#main_content_sidebar .comment_user_wrap .comment_user a {padding: 0;}
+#main_content_sidebar .comment_user_wrap .comment_user a:hover {text-decoration: underline;}
+#main_content_sidebar .comment_user_wrap .comment_date {color: #DC4019;padding: 0 0 0 6px;margin: -2px 0 37px 0;width: 91px;}
+.post_image_wrap {background: url("../i/mochabrown/bg_div_post_image_wrap.gif") 0 0 no-repeat;width: 650px;height: 249px;margin: 0 0 15px 0;}
+#main_content_sidebar .post_month {color: #8892A1;}
+.comment_user_gravatar {width: 91px;height: 90px;background: url("../i/mochabrown/bg_div_user_comment_gravatar.gif") left top no-repeat;}
+#main_content_sidebar .post_reply_wrap .userlogged a {color: #DC4019;}
+
+
+
+
+
+/* ************************************************************************* */
+					 /* 03. EXTRA STYLES */
+/* ************************************************************************* */
+/* -------- WP PAGENAVI -------- */
+.wp-pagenavi span.current {
+	background:#2C2723 !important;
+	color:#EEE !important;}
+
+
+
+
+
+/* -------- SEARCH WIDGET -------- */
+#searchsubmit {margin: -2px 0 0 10px;width: 59px;height: 22px;outline: none;text-indent: -9999em;background: url("../i/mochabrown/bg_input_sidebar_search_btn.jpg");display: block;border: 0;float: left;cursor: pointer;}
+
+
+
+
+
+
+/* -------- SHORTCODES -------- */
+#twitit a {background: url("../i/mochabrown/bg_a_sidebar_social_twitter.jpg") 0 50% no-repeat;padding: 15px 0 15px 40px;font-size: 1.2em;}
+
+
+
+
+
+
+/* -------- MAILCHIMP PLUGIN --------- */
+#mc_mv_EMAIL, #mc_mv_FNAME {width: 180px;height: 27px;border: 0;background: url("../i/mochabrown/bg_input_footer_mailing_user.gif") left top no-repeat;font-size: 1.2em;color: #636B75;padding: 15px 10px 0 32px;margin-bottom: 15px;}
+#mc_mv_EMAIL {background: url("../i/mochabrown/bg_input_footer_mailing_email.gif") left top no-repeat;}
+#footer .mc_var_label {color: #DC4019;}
+#mc_signup_submit {background: #C42D18 url("../i/mochabrown/bg_a_button.jpg") left top repeat-x;border: 1px solid #8C1F10;}
+
+
+
+
+
+/* ************************************************************************* */
+					 /* 04. BROWSER-SPECIFIC TWEAKS */
+/* ************************************************************************* */
+/* -------- IE7+8-------- */
+#footer .iefix {* background: url("../i/mochabrown/bg_input_footer_mailing_user.gif") left top no-repeat !important;}
+#footer .iefix2 {* background: url("../i/mochabrown/bg_input_footer_mailing_email.gif") left top no-repeat !important;}
+.slider-container {background: url("../i/mochabrown/bg_div_flashbanner_center.jpg") !important;}
+
+
